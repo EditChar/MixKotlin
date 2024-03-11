@@ -1,0 +1,1 @@
+-Görsel açıklama kaydetme ve Konum kaydetme işlemleri için firs step basic bir multi app.
